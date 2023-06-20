@@ -28,7 +28,7 @@ In folgender Erklärung gehen wir von einer Abgasklappe aus, welche immer offen 
 
 Situation 1: Umdrehungen im Bereich wo die Klappe im Standard offen wäre -> Keinen unterschied zum Standard daher keine veränderung der Abgaswerte
 
-Situation 2: Umdrehung mit geschlossener Klappe und unter 50% Gas -> Unter 50% wird das Abgasgeschmisch anhand der Lamda angepasst -> Abgaswerte i.O
+Situation 2: Umdrehung mit geschlossener Klappe und unter 50% Gas -> Unter 50% wird das Abgasgemisch anhand der Lamda angepasst -> Abgaswerte sind in Ordnung
 
 Situation 3: Umdrehung mit geschlossener Klappe und über 50% Gas -> Über 50% wird eine feste Einspritztabelle genommen wodurch der Motor zu mager oder zu fett läuft. In dieser Situation könnte ein Motorschaden auftreten, jedoch ist zu bedenken, dass ein Motor in dieser Situation, durch schnelle erhöhung der Drehzahl und erreichen der Situation 1, nie lange betrieben werden kann. 
 
